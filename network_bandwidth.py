@@ -5,3 +5,4 @@ ratio = 8
 
 print(bandwith/ratio)
 
+
