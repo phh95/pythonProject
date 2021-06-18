@@ -2,14 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a73be0c-12d3-4f7f-8bd6-2efb1c9a8343" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/numpy_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ospath_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/time_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/penghonghao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pachong2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pachong3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pachong4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pachong5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pachong6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pachong7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pachong_test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtle_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xunhuan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xunhuan2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zhanweifu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/测试函数/name_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/测试函数/names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/测试函数/test_name_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/词云.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/re_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/re_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/func_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/func_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,31 +65,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
-  <component name="RunManager" selected="Python.numpy_test">
-    <configuration name="numpy_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.9/bin/python3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ospath_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests in test_name_function.py">
+    <configuration name="func_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +80,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ospath_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/func_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="random_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="math_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +101,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/math_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +110,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="re_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/测试函数" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/测试函数/names.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zhanweifu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +143,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/re_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zhanweifu.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,41 +152,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="time_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in test_name_function.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/测试函数" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/time_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/测试函数/test_name_function.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.numpy_test" />
-      <item itemvalue="Python.ospath_test" />
-      <item itemvalue="Python.random_test" />
-      <item itemvalue="Python.re_test" />
-      <item itemvalue="Python.time_test" />
+      <item itemvalue="Python.zhanweifu" />
+      <item itemvalue="Python.math_test" />
+      <item itemvalue="Python.func_test" />
+      <item itemvalue="Python.names" />
+      <item itemvalue="Python tests.Unittests in test_name_function.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.numpy_test" />
-        <item itemvalue="Python.ospath_test" />
-        <item itemvalue="Python.random_test" />
-        <item itemvalue="Python.time_test" />
-        <item itemvalue="Python.re_test" />
+        <item itemvalue="Python tests.Unittests in test_name_function.py" />
+        <item itemvalue="Python.names" />
+        <item itemvalue="Python.func_test" />
+        <item itemvalue="Python.math_test" />
+        <item itemvalue="Python.zhanweifu" />
       </list>
     </recent_temporary>
   </component>

@@ -21,12 +21,29 @@ import numpy as np
 # arr3 = np.array(data)   # 通过 numpy 将列表转换为矩阵
 # print(arr3)
 
-print(np.zeros((3,5)))
+# print(np.zeros((3,5)))
+#
+# print(np.ones((4,6)))
+#
+# print(np.empty((2,3,2))) # 创建一个 2*3*2 的三维矩阵，每个位置都为空值
 
-print(np.ones((4,6)))
 
-print(np.empty((2,3,2))) # 创建一个 2*3*2 的三维矩阵，每个位置都为空值
 
+print(np.arange(10))  # 产生从 0 到 9 的数组
+
+arr4 = np.arange(10)
+
+print(arr4[5:8])
+
+arr4[5:8] = 10   # 对切片进行赋值
+print(arr4)
+
+
+arr_slice = arr4[5:8].copy()  # 创建一个副本
+arr_slice[:] = 15   # 将副本中的三个元素更改为 15
+
+print(arr_slice)
+print(arr4)
 
 
 
