@@ -25,7 +25,7 @@ wc = wordcloud.WordCloud(
     # font_path = 'msyh.ttc',  # 字体为微软雅黑
     font_path= 'PingFang.ttc',  # 字体为苹方
     scale = 15,
-    stopwords = {},  # 设定停止词
+    stopwords = {'Microsoft YaHei'},  # 设定停止词
     # contour_width = 5,  # 轮廓的宽度
     # contour_color = 'red',  # 轮廓的颜色
 )
@@ -36,4 +36,4 @@ wc.generate(string)
 
 # 导出图片
 
-wc.to_file('danmu_cloud.png')
+wc.to_file('danmu_cloud02.png')
