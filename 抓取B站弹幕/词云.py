@@ -1,9 +1,9 @@
 import jieba  # 分词模块
 import wordcloud
-import imageio
-py = imageio.imread('xx.png') # 自定义词云图的形状
+# import imageio
+# py = imageio.imread('xx.png') # 自定义词云图的形状
 
-f = open('danmu.txt',encoding='utf-8')
+f = open('弹幕.txt',encoding='utf-8')
 txt = f.read()  # 读取文件
 # print(txt)
 
@@ -20,13 +20,14 @@ print(string)
 wc = wordcloud.WordCloud(
     width = 1000,
     height = 700,
-    backgroud_color = 'white',
-    mask = py,
-    font_path = 'msyh.ttc',  # 字体为微软雅黑
+    background_color = 'white',
+    # mask = py,
+    # font_path = 'msyh.ttc',  # 字体为微软雅黑
+    font_path= 'PingFang.ttc',  # 字体为苹方
     scale = 15,
     stopwords = {},  # 设定停止词
-    contour_width = 5,  # 轮廓的宽度
-    contour_color = 'red',  # 轮廓的颜色
+    # contour_width = 5,  # 轮廓的宽度
+    # contour_color = 'red',  # 轮廓的颜色
 )
 
 # 输入文字内容
@@ -35,4 +36,4 @@ wc.generate(string)
 
 # 导出图片
 
-wc.to_file('666.png')
+wc.to_file('danmu_cloud.png')

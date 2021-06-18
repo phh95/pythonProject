@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a73be0c-12d3-4f7f-8bd6-2efb1c9a8343" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/danmu_spider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/弹幕.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/抓取B站弹幕/danmu_cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/抓取B站弹幕/danmu_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/抓取B站弹幕/弹幕.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/抓取B站弹幕/词云.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/danmu_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/弹幕.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/词云.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +52,28 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
-  <component name="RunManager" selected="Python.danmu_spider">
+  <component name="RunManager" selected="Python.词云">
+    <configuration name="词云" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/词云.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="danmu_spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,27 +108,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/func_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="math_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/math_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,19 +152,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.math_test" />
       <item itemvalue="Python.func_test" />
       <item itemvalue="Python.names" />
       <item itemvalue="Python tests.Unittests in test_name_function.py" />
       <item itemvalue="Python.danmu_spider" />
+      <item itemvalue="Python.词云" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.词云" />
         <item itemvalue="Python.danmu_spider" />
         <item itemvalue="Python tests.Unittests in test_name_function.py" />
         <item itemvalue="Python.names" />
         <item itemvalue="Python.func_test" />
-        <item itemvalue="Python.math_test" />
       </list>
     </recent_temporary>
   </component>
