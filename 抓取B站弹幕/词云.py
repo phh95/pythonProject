@@ -36,4 +36,4 @@ wc.generate(string)
 
 # 导出图片
 
-wc.to_file('danmu_cloud02.png')
+wc.to_file('danmu_cloud.png')
