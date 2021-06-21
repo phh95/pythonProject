@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a73be0c-12d3-4f7f-8bd6-2efb1c9a8343" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/抓取B站弹幕/danmu_cloud02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python绘图/huitu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python绘图/scatter_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python绘图/squares_plot.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/抓取B站弹幕/词云.py" beforeDir="false" afterPath="$PROJECT_DIR$/抓取B站弹幕/词云.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
-  <component name="RunManager" selected="Python.词云 (1)">
+  <component name="RunManager" selected="Python.scatter_test">
     <configuration name="词云 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="danmu_spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="huitu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/danmu_spider.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/huitu.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="scatter_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/测试函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python绘图" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/测试函数/names.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python绘图/scatter_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test_name_function.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_name_function.NamesTestCase.test_first_last_name" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,24 +143,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/测试函数/test_name_function.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_name_function.NamesTestCase.test_first_last_name&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.names" />
-      <item itemvalue="Python tests.Unittests in test_name_function.py" />
-      <item itemvalue="Python.danmu_spider" />
       <item itemvalue="Python.词云" />
       <item itemvalue="Python.词云 (1)" />
+      <item itemvalue="Python tests.Unittests for test_name_function.NamesTestCase.test_first_last_name" />
+      <item itemvalue="Python.huitu" />
+      <item itemvalue="Python.scatter_test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.scatter_test" />
+        <item itemvalue="Python.huitu" />
+        <item itemvalue="Python tests.Unittests for test_name_function.NamesTestCase.test_first_last_name" />
         <item itemvalue="Python.词云 (1)" />
         <item itemvalue="Python.词云" />
-        <item itemvalue="Python.danmu_spider" />
-        <item itemvalue="Python tests.Unittests in test_name_function.py" />
-        <item itemvalue="Python.names" />
       </list>
     </recent_temporary>
   </component>
