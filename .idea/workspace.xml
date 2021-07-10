@@ -2,27 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a73be0c-12d3-4f7f-8bd6-2efb1c9a8343" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Pygame/PYG02-ball.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pygame/PygameHelloWorld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pygame/PygameWallBallv1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pygame/PygameWallBallv2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pygame/PygameWallBallv3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python绘图/random_walk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python绘图/rw_visual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doubanmovie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习代码/Python爬虫/beautifulsoup_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习代码/Python爬虫/beautifulsoup_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习代码/Python爬虫/bs4_bianli.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习代码/Python爬虫/cat_500_600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习代码/Python爬虫/commit_keyword.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习代码/Python爬虫/download_cat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习代码/Python爬虫/download_picture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习代码/Python爬虫/ipaddress_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习代码/Python爬虫/pachong_amazon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习代码/笨办法学Python/ex6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习代码/笨办法学Python/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习代码/Python爬虫/china_good_school.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习代码/Python爬虫/china_good_schoolv2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/学习代码/Python爬虫/pachong_test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/学习代码/Python爬虫/pachong_test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/学习代码/Python爬虫/beautifulsoup_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/学习代码/Python爬虫/beautifulsoup_search.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +45,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
-  <component name="RunManager" selected="Python.beautifulsoup_search">
+  <component name="RunManager" selected="Python.china_good_schoolv2">
     <configuration name="beautifulsoup_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="commit_keyword" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="china_good_school" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习代码/Python爬虫/commit_keyword.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习代码/Python爬虫/china_good_school.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ipaddress_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="china_good_schoolv2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习代码/Python爬虫/ipaddress_search.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习代码/Python爬虫/china_good_schoolv2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,19 +152,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.commit_keyword" />
-      <item itemvalue="Python.ipaddress_search" />
       <item itemvalue="Python.beautifulsoup_test" />
       <item itemvalue="Python.bs4_bianli" />
       <item itemvalue="Python.beautifulsoup_search" />
+      <item itemvalue="Python.china_good_school" />
+      <item itemvalue="Python.china_good_schoolv2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.china_good_schoolv2" />
+        <item itemvalue="Python.china_good_school" />
         <item itemvalue="Python.beautifulsoup_search" />
         <item itemvalue="Python.bs4_bianli" />
         <item itemvalue="Python.beautifulsoup_test" />
-        <item itemvalue="Python.ipaddress_search" />
-        <item itemvalue="Python.commit_keyword" />
       </list>
     </recent_temporary>
   </component>
